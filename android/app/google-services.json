@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "199593556110",
+    "project_id": "chat-oline",
+    "storage_bucket": "chat-oline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199593556110:android:eb0e2d4084f9e1c74b31df",
+        "android_client_info": {
+          "package_name": "com.example.chat_oline_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199593556110-saloc8voq45i4qtjapeo080ljh574f1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoMJZIOqOwU9foHAl2EGRCbX333guV_rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199593556110-saloc8voq45i4qtjapeo080ljh574f1a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199593556110-svrcl2nae1idnnf22jul1v163tq2rs1m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatOline1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
