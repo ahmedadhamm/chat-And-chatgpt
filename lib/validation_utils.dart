@@ -4,3 +4,7 @@ class ValidationUtils{
         .hasMatch(email);
   }
 }
+
+//chat_gpt_sdk:
+//     git:
+//       url: https://github.com/iampawan/Flutter-ChatGPT.git
