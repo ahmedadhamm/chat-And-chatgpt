@@ -147,7 +147,7 @@ class _ChatThreadState extends BaseState<ChatThread, ChatViewModel>
                             ],
                           ),
                         ),
-                      )
+                      ),
                     ],
                   ),
                 )

@@ -1,4 +1,5 @@
 import 'package:chat_oline_1/model/room_category.dart';
+import 'package:chat_oline_1/ui/chatgpt/chat_screen_gpt.dart';
 import 'package:flutter/material.dart';
 
 import '../../model/room.dart';
@@ -14,6 +15,7 @@ class Roomwdiget extends StatelessWidget {
     return InkWell(
       onTap: () {
         Navigator.pushNamed(context, ChatThread.routeName, arguments: room);
+        //  Navigator.pushNamed(context, ChatScreenGpt.routeName, arguments: room);
       },
       child: Card(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
